@@ -3222,6 +3222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -3468,9 +3474,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
       "has_birch_nightstand": "2025-07-10 06:00:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-07-10 06:34:12 +0000"
     },
     "done": true
   },
@@ -3516,6 +3534,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-10 06:34:31 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-07-10 06:00:43 +0000"
@@ -3525,6 +3549,12 @@
   "techreborn:recipes/centrifuge/baked_potato": {
     "criteria": {
       "has_baked_potato": "2025-07-10 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-07-10 06:34:30 +0000"
     },
     "done": true
   },
@@ -3570,6 +3600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
@@ -3603,6 +3639,12 @@
   "mcdw:recipes/swords/sword_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -3678,6 +3720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
       "has_pink_wool": "2025-07-10 05:29:57 +0000"
@@ -3741,6 +3789,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-07-10 06:40:10 +0000"
     },
     "done": true
   },
@@ -3813,6 +3867,12 @@
   "mcda:recipes/unique_armors/archers_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-07-10 04:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-07-10 06:36:48 +0000"
     },
     "done": true
   },
@@ -3930,6 +3990,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slicer": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
@@ -4002,6 +4074,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
@@ -4056,6 +4134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-10 06:35:25 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-07-10 05:32:59 +0000"
@@ -4071,6 +4155,12 @@
   "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
     "criteria": {
       "has_water_bucket": "2025-07-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
     },
     "done": true
   },
@@ -4140,9 +4230,21 @@
     },
     "done": true
   },
+  "herbalbrews:recipes/top_hat": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2025-07-10 04:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/blue_orchid_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-07-10 06:35:08 +0000"
     },
     "done": true
   },
@@ -4185,6 +4287,12 @@
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-07-10 05:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -4236,6 +4344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -4269,6 +4383,12 @@
   "techreborn:recipes/misc/blasting/refined_iron_ingot_from_iron_ingot": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -4392,6 +4512,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/white_bed_from_wool": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -4413,6 +4539,18 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-10 05:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -4594,6 +4732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-10 06:34:30 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_white_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -4615,6 +4759,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-07-10 06:34:30 +0000"
     },
     "done": true
   },
@@ -4780,6 +4930,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
@@ -4831,6 +4993,12 @@
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-07-10 05:27:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-07-10 06:34:32 +0000"
     },
     "done": true
   },
@@ -4900,6 +5068,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-10 06:35:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/lime_shiny_flower": {
     "criteria": {
       "has_item": "2025-07-10 04:37:37 +0000"
@@ -4909,6 +5089,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-07-10 05:35:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-10 06:34:16 +0000"
     },
     "done": true
   },
@@ -4954,15 +5140,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-07-10 06:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-07-10 04:35:52 +0000"
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_burst": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-07-10 06:40:10 +0000"
     },
     "done": true
   },
@@ -4987,6 +5197,12 @@
   "mcda:recipes/base_armors/thief_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -5206,6 +5422,12 @@
     },
     "done": true
   },
+  "herbalbrews:recipes/witch_hat": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-07-10 05:29:54 +0000"
@@ -5227,6 +5449,12 @@
   "mcdw:recipes/double_axes/double_axe_double": {
     "criteria": {
       "has_iron_block": "2025-07-10 05:32:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
     },
     "done": true
   },
@@ -5290,9 +5518,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-07-10 06:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-07-10 05:29:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -5464,6 +5704,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-07-10 06:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-10 05:29:54 +0000"
@@ -5560,6 +5806,12 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-07-10 05:16:04 +0000"
@@ -5626,6 +5878,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -5656,6 +5920,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-07-10 06:34:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
     "criteria": {
       "has_spruce_stairs": "2025-07-10 06:17:16 +0000"
@@ -5665,6 +5935,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-07-10 06:40:10 +0000"
     },
     "done": true
   },
@@ -5740,6 +6016,12 @@
     },
     "done": true
   },
+  "beachparty:recipes/beach_towel": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_the_end": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -5785,6 +6067,12 @@
   "mcda:recipes/base_armors/mystery_armor_white_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-07-10 06:40:10 +0000"
     },
     "done": true
   },
@@ -5836,6 +6124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/tools/iron_brush": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -5863,6 +6157,12 @@
   "mcdw:recipes/swords/sword_broadsword": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
     },
     "done": true
   },
@@ -5956,6 +6256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-07-10 06:01:01 +0000"
@@ -5965,6 +6271,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
     "criteria": {
       "has_torch": "2025-07-10 05:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-10 06:34:31 +0000"
     },
     "done": true
   },
@@ -5995,6 +6307,12 @@
   "croptopia:recipes/misc/cooking_pot": {
     "criteria": {
       "has_iron": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-07-10 06:34:01 +0000"
     },
     "done": true
   },
@@ -6076,6 +6394,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-07-10 05:35:54 +0000"
@@ -6136,6 +6460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -6175,6 +6505,18 @@
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-07-10 06:34:31 +0000"
     },
     "done": true
   },
@@ -6268,6 +6610,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-07-10 06:34:16 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_white_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -6328,6 +6676,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_bubble_bow": {
     "criteria": {
       "has_water_bucket": "2025-07-10 04:35:33 +0000"
@@ -6352,9 +6706,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-10 06:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-10 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-10 06:34:16 +0000"
     },
     "done": true
   },
@@ -6385,6 +6751,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -6424,6 +6796,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2025-07-10 05:04:07 +0000"
@@ -6451,6 +6829,12 @@
   "mcdw:recipes/shortbows/bow_shortbow": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-07-10 06:34:01 +0000"
     },
     "done": true
   },
@@ -6493,6 +6877,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-07-10 06:40:10 +0000"
     },
     "done": true
   },
@@ -6583,6 +6973,18 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-10 05:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/blue_orchid": {
+    "criteria": {
+      "has_flower": "2025-07-10 06:35:08 +0000"
     },
     "done": true
   },
@@ -6815,6 +7217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
@@ -6905,6 +7313,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-10 04:35:19 +0000"
@@ -6931,6 +7345,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_broken_sawblade": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -6943,9 +7363,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-07-10 06:34:31 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_apron": {
     "criteria": {
       "has_red_wool": "2025-07-10 05:29:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-07-10 06:34:32 +0000"
     },
     "done": true
   },
@@ -7048,6 +7480,12 @@
   "mcda:recipes/base_armors/mystery_armor_green_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -7219,6 +7657,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-07-10 06:34:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_bow": {
     "criteria": {
       "has_bow": "2025-07-10 05:22:31 +0000"
@@ -7312,6 +7756,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
     },
     "done": true
   },
@@ -7495,9 +7945,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-07-10 05:35:54 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/glass_vial": {
+    "criteria": {
+      "has_item": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -7615,6 +8077,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-07-10 06:36:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_hoe": "2025-07-10 04:55:11 +0000"
@@ -7636,6 +8104,12 @@
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -7747,6 +8221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-07-10 04:40:05 +0000"
@@ -7768,6 +8248,12 @@
   "mcda:recipes/base_armors/battle_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-10 06:33:47 +0000"
     },
     "done": true
   },
@@ -7899,6 +8385,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/lexicon": {
     "criteria": {
       "has_item": "2025-07-10 04:38:49 +0000"
@@ -7944,6 +8436,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-07-10 04:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -8063,6 +8561,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-07-10 06:34:30 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/bar_panel": {
     "criteria": {
       "has_ingot": "2025-07-10 05:04:07 +0000"
@@ -8072,6 +8576,12 @@
   "mcdw:recipes/sickles/sickle_sickle": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
     },
     "done": true
   },
@@ -8096,6 +8606,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-10 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-10 06:40:10 +0000"
     },
     "done": true
   },
@@ -8195,6 +8711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_void_touched_blade": {
     "criteria": {
       "has_diamond": "2025-07-10 05:23:00 +0000"
@@ -8267,6 +8789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-10 06:34:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
     "criteria": {
       "has_refined_iron": "2025-07-10 05:16:04 +0000"
@@ -8276,6 +8804,12 @@
   "mcda:recipes/base_armors/vanguard_armor_leggings": {
     "criteria": {
       "has_leather": "2025-07-10 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -8387,6 +8921,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/transportation/ghost_rail": {
     "criteria": {
       "has_item": "2025-07-10 05:35:45 +0000"
@@ -8441,6 +8987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-07-10 05:16:04 +0000"
@@ -8489,6 +9041,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_drakkar": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -8531,6 +9089,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-07-10 06:36:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_bench": {
     "criteria": {
       "has_spruce_bench": "2025-07-10 05:27:50 +0000"
@@ -8540,6 +9104,12 @@
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-10 06:36:48 +0000"
     },
     "done": true
   },
@@ -8609,6 +9179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-10 06:34:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/bone_rib_cage": {
     "criteria": {
       "has_bone": "2025-07-10 04:40:34 +0000"
@@ -8624,6 +9200,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-07-10 04:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-10 06:34:30 +0000"
     },
     "done": true
   },
@@ -8747,6 +9329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
+    "criteria": {
+      "has_gray_sheet": "2025-07-10 06:40:10 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -8771,6 +9359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-10 06:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-10 06:00:43 +0000"
@@ -8786,6 +9380,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-07-10 05:29:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-07-10 06:36:38 +0000"
     },
     "done": true
   },
@@ -8822,6 +9422,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-07-10 06:33:47 +0000"
     },
     "done": true
   },
