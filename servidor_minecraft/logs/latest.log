@@ -2202,3 +2202,51 @@ BCLib - The End  BiomeSource (22027cec)
 [04:35:44] [Server thread/INFO]: zimee777 has made the advancement [Disme A Dozen]
 [04:39:16] [Server thread/INFO]: d0ce3_ has made the advancement [This Must be a Sign!]
 [04:39:39] [Server thread/INFO]: zimee777 has made the advancement [Gravedigger]
+[04:42:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:42:25] [Server thread/INFO]: opop d0ce3_<--[HERE]
+[04:42:30] [Server thread/INFO]: Made d0ce3_ a server operator
+[04:42:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[04:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[04:42:44] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1043, y=-34, z=76}
+[04:42:54] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1079, y=245, z=30}
+[04:42:54] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1079, y=245, z=30}
+[04:43:08] [Server thread/INFO]: Villager class_1646['Horace'/5865, l='ServerLevel[world]', x=-1107.50, y=85.00, z=35.50] died, message: 'Horace hit the ground too hard'
+[04:43:08] [Server thread/INFO]: Named entity class_1646['Horace'/5865, l='ServerLevel[world]', x=-1107.50, y=85.00, z=35.50] died: Horace fell from a high place
+[04:43:08] [Server thread/INFO]: Villager class_1646['Clemencia'/5869, l='ServerLevel[world]', x=-1096.50, y=85.00, z=40.50] died, message: 'Clemencia hit the ground too hard'
+[04:43:08] [Server thread/INFO]: Named entity class_1646['Clemencia'/5869, l='ServerLevel[world]', x=-1096.50, y=85.00, z=40.50] died: Clemencia fell from a high place
+[04:43:08] [Server thread/INFO]: Villager class_1646['Jena'/5870, l='ServerLevel[world]', x=-1093.50, y=85.00, z=37.50] died, message: 'Jena hit the ground too hard'
+[04:43:08] [Server thread/INFO]: Named entity class_1646['Jena'/5870, l='ServerLevel[world]', x=-1093.50, y=85.00, z=37.50] died: Jena fell from a high place
+[04:43:08] [Server thread/INFO]: Villager class_1646['Eartha'/5866, l='ServerLevel[world]', x=-1093.50, y=84.00, z=39.50] died, message: 'Eartha hit the ground too hard'
+[04:43:08] [Server thread/INFO]: Named entity class_1646['Eartha'/5866, l='ServerLevel[world]', x=-1093.50, y=84.00, z=39.50] died: Eartha fell from a high place
+[04:43:08] [Server thread/INFO]: Villager class_1646['Ellis'/5868, l='ServerLevel[world]', x=-1093.50, y=82.00, z=41.50] died, message: 'Ellis hit the ground too hard'
+[04:43:08] [Server thread/INFO]: Named entity class_1646['Ellis'/5868, l='ServerLevel[world]', x=-1093.50, y=82.00, z=41.50] died: Ellis fell from a high place
+[04:43:08] [Server thread/INFO]: Villager class_1646['Hattie'/5867, l='ServerLevel[world]', x=-1093.50, y=80.00, z=43.50] died, message: 'Hattie hit the ground too hard'
+[04:43:08] [Server thread/INFO]: Named entity class_1646['Hattie'/5867, l='ServerLevel[world]', x=-1093.50, y=80.00, z=43.50] died: Hattie fell from a high place
+[04:43:11] [Server thread/INFO]: Villager class_1646['Nick'/5991, l='ServerLevel[world]', x=-1094.50, y=87.00, z=22.50] died, message: 'Nick hit the ground too hard'
+[04:43:11] [Server thread/INFO]: Named entity class_1646['Nick'/5991, l='ServerLevel[world]', x=-1094.50, y=87.00, z=22.50] died: Nick fell from a high place
+[04:43:11] [Server thread/INFO]: Villager class_1646['Margart'/5992, l='ServerLevel[world]', x=-1092.50, y=87.00, z=21.50] died, message: 'Margart hit the ground too hard'
+[04:43:11] [Server thread/INFO]: Named entity class_1646['Margart'/5992, l='ServerLevel[world]', x=-1092.50, y=87.00, z=21.50] died: Margart fell from a high place
+[04:43:50] [Server thread/INFO]: <zimee777> queres venir hay un pueblito
+[04:44:12] [Server thread/INFO]: zimee777 has made the advancement [Sweet Dreams]
+[04:44:14] [Server thread/INFO]: <d0ce3_> Ya voy
+[04:44:19] [Server thread/INFO]: <d0ce3_> Ando buscando cuero
+[04:44:29] [Server thread/INFO]: zimee777 has made the advancement ['X' Marks the Spot]
+[04:44:30] [Server thread/INFO]: [d0ce3_: Gamerule playersSleepingPercentage is now set to: 1]
+[04:45:58] [Server thread/INFO]: <zimee777> era una casa alfinal
+[04:46:12] [Server thread/INFO]: zimee777 has made the advancement [Close Quarters]
+[04:46:31] [Server thread/INFO]: d0ce3_ has made the advancement [Disme A Dozen]
+[04:47:28] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:47:28] [Worker-Main-3/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[04:48:04] [Server thread/INFO]: <d0ce3_> estoy en una casa donde hay algunos cofres
+[04:48:07] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-805, y=3, z=-400}
+[04:48:16] [Server thread/INFO]: <d0ce3_> podes usar /sethome si no queres perder ese lugar
+[04:48:41] [Server thread/INFO]: zimee777 has made the advancement [Isn't It Iron Pick]
+[04:49:23] [Server thread/INFO]: <zimee777> aca estaba yo
+[04:49:29] [Server thread/INFO]: <d0ce3_> a
+[04:49:31] [Server thread/INFO]: <d0ce3_> jaja
+[04:51:30] [Server thread/INFO]: <d0ce3_> sos una flor ahora? jaja
+[04:51:34] [Server thread/INFO]: <zimee777> sip
+[04:52:48] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-877, y=-18, z=-400}
+[04:52:49] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-822, y=-10, z=-403}
+[04:53:33] [Server thread/INFO]: <zimee777> lo acogoto?
+[04:53:37] [Server thread/INFO]: <d0ce3_> jajajajas
