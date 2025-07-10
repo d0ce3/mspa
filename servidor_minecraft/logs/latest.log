@@ -2460,3 +2460,9 @@ BCLib - The End  BiomeSource (22027cec)
 [06:02:41] [Server thread/INFO]: Villager class_1646['Ivory'/34104, l='ServerLevel[world]', x=-1255.72, y=87.00, z=711.30] died, message: 'Ivory was slain by Kobold Warrior'
 [06:02:41] [Server thread/INFO]: Named entity class_1646['Ivory'/34104, l='ServerLevel[world]', x=-1255.72, y=87.00, z=711.30] died: Ivory was slain by Kobold Warrior
 [06:03:01] [Server thread/INFO]: d0ce3_ has made the advancement [Amateur Archaeologist]
+[06:06:36] [Server thread/INFO]: d0ce3_ has made the advancement [False Water]
+[06:12:43] [Server thread/INFO]: Villager class_1646['Yaeko'/34850, l='ServerLevel[world]', x=-1280.90, y=79.00, z=712.89] died, message: 'Yaeko was slain by Zombie'
+[06:12:43] [Server thread/INFO]: Named entity class_1646['Yaeko'/34850, l='ServerLevel[world]', x=-1280.90, y=79.00, z=712.89] died: Yaeko was slain by Zombie
+[06:13:22] [Server thread/INFO]: [EMI] d0ce3_ cheated in 64 shaft
+[06:13:46] [Server thread/INFO]: Villager class_1646['Jody'/34105, l='ServerLevel[world]', x=-1336.66, y=76.00, z=748.52] died, message: 'Jody was slain by Kobold Warrior'
+[06:13:46] [Server thread/INFO]: Named entity class_1646['Jody'/34105, l='ServerLevel[world]', x=-1336.66, y=76.00, z=748.52] died: Jody was slain by Kobold Warrior
