@@ -2324,3 +2324,54 @@ BCLib - The End  BiomeSource (22027cec)
 [05:23:55] [Server thread/INFO]: zimee777 was shot by Skeleton
 [05:23:57] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
 [05:23:59] [Server thread/INFO]: <d0ce3_> JAJAJA
+[05:24:11] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1304, -40, -76, minecraft:overworld
+[05:24:39] [Server thread/INFO]: <zimee777> wtf
+[05:24:44] [Server thread/INFO]: <d0ce3_> me cague todo
+[05:25:52] [Server thread/INFO]: There are 2 of a max of 20 players online: d0ce3_, zimee777
+[05:25:58] [Server thread/INFO]: [Handshake] Sending channel query
+[05:25:58] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[05:25:58] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[05:25:58] [Server thread/INFO]: d0ce3_ lost connection: You logged in from another location
+[05:25:58] [Server thread/INFO]: d0ce3_ left the game
+[05:25:58] [Server thread/INFO]: remove player wand
+[05:25:58] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[05:25:58] [Server thread/WARN]: handleDisconnection() called twice
+[05:25:58] [Server thread/INFO]: d0ce3_[/100.93.24.83:64227] logged in with entity id 25232 at (-1295.4128254729562, -35.0, -79.39226796400695)
+[05:25:58] [Server thread/INFO]: Sending server config values to client
+[05:25:58] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[05:25:58] [Server thread/INFO]: Loading config from file...
+[05:25:59] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[05:25:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:25:59] [Server thread/INFO]: d0ce3_ joined the game
+[05:25:59] [Server thread/INFO]: Loading Configs for Sortilege
+[05:25:59] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[05:25:59] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[05:25:59] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[05:25:59] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:25:59] [Server thread/INFO]: PLAYER_JOIN
+[05:25:59] [Server thread/INFO]: add_player wand
+[05:25:59] [Server thread/INFO]: config sent
+[05:25:59] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[05:26:00] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[05:26:01] [Netty Epoll Server IO #7/INFO]: Channel update: d0ce3_ -> default
+[05:26:01] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[05:26:02] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[05:26:08] [Server thread/INFO]: <d0ce3_> asdas
+[05:27:32] [Server thread/INFO]: <zimee777> pera
+[05:30:45] [Server thread/INFO]: <zimee777> ta jodido esto
+[05:30:53] [Server thread/INFO]: <zimee777> aca ni emepdo enmtro
+[05:31:18] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1364, y=-30, z=307}
+[05:31:18] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-1388, y=13, z=303}
+[05:31:26] [Server thread/INFO]: <d0ce3_> No le hacemos un pedo de daño
+[05:31:42] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga]] from pos class_2338{x=-1429, y=67, z=315}
+[05:31:42] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1322, y=-33, z=347}
+[05:31:42] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1322, y=-33, z=348}
+[05:31:56] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1322, y=-24, z=390}
+[05:32:05] [Server thread/INFO]: <zimee777> queres hacer aca
+[05:32:11] [Server thread/INFO]: <zimee777> que hay aldeanos
+[05:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3729ms or 74 ticks behind
+[05:32:34] [Server thread/INFO]: <d0ce3_> en cualquier lado
+[05:32:36] [Server thread/INFO]: <d0ce3_> donde te animes
+[05:32:41] [Server thread/INFO]: <zimee777> a bue
+[05:32:49] [Server thread/INFO]: <zimee777> cualquier ladoi tonces
+[05:33:22] [Server thread/INFO]: d0ce3_ has made the advancement [Penteconter]
