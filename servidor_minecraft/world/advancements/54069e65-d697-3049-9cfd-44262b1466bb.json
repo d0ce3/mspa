@@ -682,6 +682,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-10 05:21:52 +0000",
       "minecraft:zombie": "2025-07-09 04:31:30 +0000"
     },
     "done": false
@@ -743,7 +744,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-09 04:43:12 +0000",
-      "opened_chest": "2025-07-09 04:31:58 +0000"
+      "opened_chest": "2025-07-09 04:31:58 +0000",
+      "opened_cart": "2025-07-10 05:17:36 +0000"
     },
     "done": false
   },
@@ -5908,9 +5910,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-07-10 04:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -5926,9 +5952,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-07-10 05:17:36 +0000"
     },
     "done": true
   },
@@ -5944,15 +5982,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_masters_katana": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-07-10 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -5968,15 +6042,51 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/nbtcrafting/leather_backtank": {
     "criteria": {
       "has_backtank": "2025-07-10 05:05:13 +0000"
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-10 05:04:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -5998,9 +6108,27 @@
     },
     "done": true
   },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/grim_armor_leggings": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6022,9 +6150,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2025-07-10 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-07-10 05:15:04 +0000"
     },
     "done": true
   },
@@ -6070,6 +6210,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-10 04:46:40 +0000"
@@ -6082,15 +6228,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/parts/template_template": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-07-10 05:04:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2025-07-10 04:46:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6106,6 +6276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/nbtcrafting/golden_backtank": {
     "criteria": {
       "has_backtank": "2025-07-10 04:55:15 +0000"
@@ -6115,6 +6291,18 @@
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_swift_striker": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6130,15 +6318,51 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_winters_touch": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_helmet": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
     },
     "done": true
   },
@@ -6151,6 +6375,24 @@
   "techreborn:recipes/centrifuge/carrot": {
     "criteria": {
       "has_carrot": "2025-07-10 04:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6172,9 +6414,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-10 05:05:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6193,6 +6453,24 @@
   "techreborn:recipes/crafting_table/machine/compressor": {
     "criteria": {
       "has_basic_machine_frame": "2025-07-10 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_heartstealer": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6232,15 +6510,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "minecells:book/book": {
     "criteria": {
       "requirement": "2025-07-10 05:01:21 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
       "has_logs": "2025-07-10 04:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
     },
     "done": true
   },
@@ -6277,6 +6579,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-10 05:09:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6322,6 +6630,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_exploding": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
@@ -6334,6 +6648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
@@ -6343,6 +6663,18 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-07-10 05:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6370,9 +6702,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_call_of_the_void": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6400,6 +6744,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-07-10 04:46:07 +0000"
@@ -6409,6 +6759,18 @@
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-07-10 05:05:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6448,6 +6810,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-07-10 05:08:08 +0000"
@@ -6466,9 +6834,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-07-10 04:46:07 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
     },
     "done": true
   },
@@ -6496,9 +6876,27 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6538,6 +6936,24 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:59:42 +0000"
@@ -6556,6 +6972,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_base": "2025-07-10 05:17:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
     "criteria": {
       "has_glass_bottle": "2025-07-10 04:46:40 +0000"
@@ -6568,6 +6990,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-10 04:59:42 +0000"
@@ -6577,6 +7005,18 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-07-10 05:22:00 +0000"
     },
     "done": true
   },
@@ -6601,6 +7041,12 @@
   "beachparty:main/find_a_overgrown_disc": {
     "criteria": {
       "find_a_overgrown_disc": "2025-07-10 05:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
     },
     "done": true
   },
@@ -6652,6 +7098,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-07-10 05:18:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2025-07-10 04:46:07 +0000"
@@ -6676,6 +7134,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
@@ -6688,9 +7152,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-10 05:20:50 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/radio": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6712,6 +7200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-10 04:56:47 +0000"
@@ -6721,6 +7215,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-10 04:56:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6748,15 +7254,39 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-07-10 05:05:13 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/extractor": {
     "criteria": {
       "has_basic_machine_frame": "2025-07-10 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
     },
     "done": true
   },
@@ -6778,6 +7308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_burst_gale_bow": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
@@ -6789,6 +7325,12 @@
       "magnolia_log": "2025-07-10 04:41:09 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/centrifuge/redstone": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
   },
   "techreborn:refinediron": {
     "criteria": {
@@ -6820,6 +7362,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-10 05:20:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2025-07-10 05:04:00 +0000"
@@ -6838,9 +7386,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-07-10 05:17:52 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_boneclub": {
     "criteria": {
       "has_string": "2025-07-10 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },
@@ -6875,9 +7435,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/whips/whip_whip": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6893,6 +7489,12 @@
     },
     "done": true
   },
+  "creategoggles:recipes/nbtcrafting/goggle_iron_helmet": {
+    "criteria": {
+      "has_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
@@ -6905,11 +7507,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-07-10 04:59:18 +0000"
     },
     "done": false
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-10 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
@@ -6923,9 +7549,27 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-07-10 04:56:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-10 05:20:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -6935,9 +7579,27 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
     "criteria": {
       "has_basic_machine_frame": "2025-07-10 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
     },
     "done": true
   },
@@ -6971,6 +7633,30 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-07-10 05:20:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-07-10 04:55:15 +0000"
@@ -6989,6 +7675,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-07-10 05:04:05 +0000"
@@ -7001,9 +7699,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/redstone/trapped_cypress_chest": {
     "criteria": {
       "has_item": "2025-07-10 04:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
     },
     "done": true
   },
@@ -7019,6 +7741,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_rabbit_hide": "2025-07-10 04:45:10 +0000"
@@ -7028,6 +7762,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-07-10 04:59:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
     },
     "done": true
   },
@@ -7050,6 +7790,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/draugr_boss_disc": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
     "criteria": {
       "has_refined_iron_ingot": "2025-07-10 05:04:00 +0000"
@@ -7062,15 +7826,57 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-07-10 05:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-10 05:08:08 +0000"
     },
     "done": true
   },
+  "oxidized:recipes/copper_rail": {
+    "criteria": {
+      "has_copper_block": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -7098,9 +7904,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:machineblock": {
     "criteria": {
       "crit_0": "2025-07-10 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_pulsar": {
+    "criteria": {
+      "has_copper_block": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -7134,6 +7958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-07-10 05:04:00 +0000"
@@ -7152,9 +7982,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-07-10 05:09:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-10 05:19:55 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
     },
     "done": true
   },
@@ -7164,9 +8012,33 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-07-10 04:46:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
     },
     "done": true
   },
@@ -7188,6 +8060,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_barometer": {
+    "criteria": {
+      "has_copper_block": "2025-07-10 05:18:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-10 05:09:08 +0000"
@@ -7200,6 +8084,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-07-10 05:22:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-07-10 05:10:36 +0000"
@@ -7209,6 +8099,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-10 05:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-10 05:18:59 +0000"
     },
     "done": true
   },

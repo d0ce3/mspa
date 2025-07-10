@@ -3174,6 +3174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -3324,6 +3330,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-07-10 05:15:58 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
     "criteria": {
       "has_dye": "2025-07-10 04:35:50 +0000"
@@ -3414,6 +3426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -3495,6 +3513,12 @@
   "mcda:recipes/base_armors/ghostly_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-07-10 05:16:03 +0000"
     },
     "done": true
   },
@@ -3630,6 +3654,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-07-10 05:16:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_sugar": "2025-07-10 04:36:20 +0000"
@@ -3639,6 +3669,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-10 04:36:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -3771,6 +3807,18 @@
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-07-10 04:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -3924,6 +3972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -4002,6 +4056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-07-10 04:36:15 +0000"
@@ -4072,6 +4132,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-10 05:13:12 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
     "criteria": {
       "has_soul_lantern": "2025-07-10 04:39:55 +0000"
@@ -4126,6 +4192,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-07-10 05:04:07 +0000"
@@ -4153,6 +4225,12 @@
   "minecells:root": {
     "criteria": {
       "requirement": "2025-07-10 05:00:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -4201,6 +4279,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -4267,6 +4351,12 @@
   "botania:recipes/decorations/lime_shiny_flower": {
     "criteria": {
       "has_item": "2025-07-10 04:37:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -4366,6 +4456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/battle_robe_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -4447,6 +4543,18 @@
   "mcdw:recipes/crossbows/crossbow_harp": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_ingot": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -4570,6 +4678,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2025-07-10 04:59:34 +0000"
@@ -4630,6 +4744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:38:35 +0000"
@@ -4666,6 +4786,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -4693,6 +4819,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -4846,6 +4978,12 @@
     },
     "done": true
   },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-07-10 05:15:44 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/tools/iron_brush": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -4885,6 +5023,12 @@
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2025-07-10 04:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -5023,6 +5167,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -5254,6 +5404,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-07-10 05:16:03 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shortbows/bow_shortbow": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
@@ -5410,6 +5566,12 @@
     },
     "done": true
   },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_butterfly": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
@@ -5509,6 +5671,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -5688,6 +5856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-10 04:35:48 +0000"
@@ -5850,6 +6024,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-10 05:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-07-10 04:58:27 +0000"
@@ -5928,6 +6108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2025-07-10 04:44:33 +0000"
@@ -5961,6 +6147,18 @@
   "mcda:recipes/base_armors/emerald_gear_chestplate": {
     "criteria": {
       "has_emerald": "2025-07-10 04:35:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-07-10 05:14:53 +0000"
     },
     "done": true
   },
@@ -6021,6 +6219,12 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2025-07-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2025-07-10 05:20:21 +0000"
     },
     "done": true
   },
@@ -6096,6 +6300,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-07-10 05:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-07-10 04:36:43 +0000"
@@ -6117,6 +6327,12 @@
   "mcda:recipes/base_armors/battle_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -6144,10 +6360,23 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-07-10 05:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-07-10 04:34:59 +0000",
-      "opened_chest": "2025-07-10 04:44:29 +0000"
+      "opened_chest": "2025-07-10 04:44:29 +0000",
+      "opened_cart": "2025-07-10 05:15:58 +0000"
     },
     "done": false
   },
@@ -6172,6 +6401,12 @@
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -6321,6 +6556,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-07-10 05:16:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-07-10 04:36:50 +0000"
@@ -6342,6 +6583,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-07-10 05:16:00 +0000"
     },
     "done": true
   },
@@ -6375,6 +6622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_lime": {
     "criteria": {
       "has_item": "2025-07-10 04:37:37 +0000"
@@ -6405,6 +6658,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-07-10 05:16:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_red_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
@@ -6414,6 +6673,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-10 04:35:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -6441,9 +6706,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-07-10 05:16:03 +0000"
     },
     "done": true
   },
@@ -6519,9 +6796,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-07-10 05:16:04 +0000"
     },
     "done": true
   },
@@ -6582,6 +6871,12 @@
   "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
       "has_lead_ingot": "2025-07-10 05:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-07-10 05:20:13 +0000"
     },
     "done": true
   },
@@ -6648,6 +6943,18 @@
   "mcda:recipes/base_armors/climbing_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-07-10 05:05:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-07-10 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-10 05:13:12 +0000"
     },
     "done": true
   },
