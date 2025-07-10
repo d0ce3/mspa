@@ -3090,6 +3090,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-07-10 04:58:15 +0000",
       "in_better_spider_dungeon": "2025-07-10 04:19:06 +0000"
     },
     "done": false
@@ -3448,6 +3449,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-10 04:55:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2025-07-10 04:36:15 +0000"
@@ -3481,6 +3488,12 @@
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-07-10 04:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-07-10 04:55:11 +0000"
     },
     "done": true
   },
@@ -3658,6 +3671,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-07-10 04:59:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/evocation_robe_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -3700,6 +3719,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-10 04:58:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-07-10 04:55:11 +0000"
+    },
+    "done": true
+  },
   "barteringstation:recipes/decorations/bartering_station": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -3716,7 +3747,9 @@
     "criteria": {
       "baked_potato": "2025-07-10 04:37:01 +0000",
       "porkchop": "2025-07-10 04:50:17 +0000",
-      "bread": "2025-07-10 04:40:50 +0000"
+      "apple": "2025-07-10 05:00:17 +0000",
+      "bread": "2025-07-10 04:40:50 +0000",
+      "golden_carrot": "2025-07-10 04:58:52 +0000"
     },
     "done": false
   },
@@ -3798,9 +3831,27 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-07-10 05:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-07-10 05:00:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/gold_cable": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-10 04:59:37 +0000"
     },
     "done": true
   },
@@ -3939,6 +3990,12 @@
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-10 04:58:31 +0000"
     },
     "done": true
   },
@@ -4116,6 +4173,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-07-10 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-10 04:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-07-10 04:36:15 +0000"
@@ -4137,6 +4206,12 @@
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-10 04:44:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 04:59:34 +0000"
     },
     "done": true
   },
@@ -4194,6 +4269,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-07-10 04:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -4215,6 +4296,12 @@
   "mcda:recipes/base_armors/grim_armor_chestplate": {
     "criteria": {
       "has_bone": "2025-07-10 04:40:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 04:59:34 +0000"
     },
     "done": true
   },
@@ -4293,6 +4380,12 @@
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-10 04:59:34 +0000"
     },
     "done": true
   },
@@ -4428,6 +4521,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 04:59:34 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
@@ -4497,6 +4596,12 @@
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-10 04:58:31 +0000"
     },
     "done": true
   },
@@ -4632,6 +4737,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 04:58:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
     "criteria": {
       "has_log": "2025-07-10 04:38:58 +0000"
@@ -4677,6 +4788,12 @@
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-07-10 04:37:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-07-10 04:59:34 +0000"
     },
     "done": true
   },
@@ -4908,6 +5025,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-10 04:58:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
@@ -4923,6 +5046,12 @@
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2025-07-10 04:36:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 04:59:34 +0000"
     },
     "done": true
   },
@@ -5010,9 +5139,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_hoe": {
+    "criteria": {
+      "has_golden_hoe": "2025-07-10 04:55:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2025-07-10 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-07-10 04:55:11 +0000"
     },
     "done": true
   },
@@ -5039,6 +5180,12 @@
       "in_water": "2025-07-10 04:37:09 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-10 04:58:27 +0000"
+    },
+    "done": false
   },
   "mcdw:recipes/swords/sword_iron_sword_var": {
     "criteria": {
@@ -5128,6 +5275,12 @@
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2025-07-10 04:40:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-10 04:58:15 +0000"
     },
     "done": true
   },
@@ -5254,6 +5407,12 @@
   "mcdw:recipes/daggers/dagger_moon": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:40:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-10 04:58:31 +0000"
     },
     "done": true
   },
