@@ -2256,3 +2256,75 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [03:06:18] [Server thread/INFO]: <d0ce3_> asd
 [03:07:11] [Server thread/INFO]: <zimee777> se murieron banda de aldeanos la conchaa
 [03:07:43] [Server thread/INFO]: <d0ce3_> uy f
+[03:15:20] [Server thread/INFO]: zimee777 was shot by Skeleton
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Combo count: 0 is dual wielding: false
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 2 | client: 0
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Combo count: 1 is dual wielding: false
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 1 | client: 0
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Combo count: 2 is dual wielding: false
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:21] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 1 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 3 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 4 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 5 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 6 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 7 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 8 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 9 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 10 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 11 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Combo count: 12 is dual wielding: false
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[03:15:22] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[03:15:24] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:15:37] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1371, 65, 231, minecraft:overworld
+[03:15:44] [Server thread/INFO]: <zimee777> que mal me anda coincha
+[03:16:09] [Server thread/INFO]: <d0ce3_> uuy
+[03:16:14] [Server thread/INFO]: <d0ce3_> pobresita amore
+[03:17:42] [Server thread/INFO]: d0ce3_ has made the advancement [Hot Stuff]
