@@ -11446,6 +11446,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_item": "2025-07-11 04:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-07-11 04:39:10 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-07-11 04:30:36 +0000"

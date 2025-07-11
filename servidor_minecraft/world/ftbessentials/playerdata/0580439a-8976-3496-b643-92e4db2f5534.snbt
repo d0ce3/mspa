@@ -6,16 +6,16 @@
 	last_seen: { dim: "minecells:prison", x: -978, y: 24, z: -8, time: 1752207710976L, xRot: 13.089774f, yRot: -38.181885f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecells:prison", x: -1030, y: 24, z: 8, time: 1752207510441L }
-		{ dim: "minecraft:overworld", x: -1424, y: 64, z: 233, time: 1752207517695L, xRot: 0.0f, yRot: 45.000004f }
-		{ dim: "minecells:prison", x: -978, y: 24, z: -8, time: 1752207742091L }
-		{ dim: "minecraft:overworld", x: -1424, y: 64, z: 233, time: 1752207749925L, xRot: 17.345253f, yRot: 19.01074f }
-		{ dim: "minecells:prison", x: -959, y: 24, z: -27, time: 1752207824379L }
-		{ dim: "minecraft:overworld", x: -1424, y: 64, z: 233, time: 1752207830082L, xRot: 4.751341f, yRot: 62.574234f }
 		{ dim: "minecells:promenade", x: -1027, y: 68, z: 53, time: 1752208291246L }
 		{ dim: "minecraft:overworld", x: -1235, y: 62, z: 396, time: 1752208390664L, xRot: 18.490126f, yRot: -65.654434f }
 		{ dim: "minecells:promenade", x: -1027, y: 76, z: 66, time: 1752208502512L }
 		{ dim: "minecraft:overworld", x: -1424, y: 64, z: 233, time: 1752208506942L, xRot: 0.0f, yRot: 45.000004f }
+		{ dim: "minecells:promenade", x: -1012, y: 77, z: 63, time: 1752208542084L }
+		{ dim: "minecraft:overworld", x: -1424, y: 64, z: 233, time: 1752208547807L, xRot: 8.815738f, yRot: -70.29154f }
+		{ dim: "minecells:promenade", x: -1017, y: 68, z: 38, time: 1752208580677L }
+		{ dim: "minecraft:overworld", x: -1424, y: 64, z: 233, time: 1752208591039L, xRot: 0.0f, yRot: 45.000004f }
+		{ dim: "minecraft:overworld", x: -1158, y: 64, z: 442, time: 1752208715374L, xRot: 9.903401f, yRot: 120.887436f }
+		{ dim: "minecells:promenade", x: -1032, y: 68, z: 57, time: 1752208877943L }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: -1421, y: 64, z: 231, time: 1752129532934L, xRot: 9.799753f, yRot: 54.882812f }
