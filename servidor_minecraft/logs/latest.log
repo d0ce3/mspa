@@ -2355,3 +2355,67 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [03:44:39] [Server thread/INFO]: <zimee777> ya rompi
 [03:44:43] [Server thread/INFO]: <zimee777> creo
 [03:45:14] [Server thread/INFO]: <d0ce3_> entonces hay que darle tiempo
+[03:46:05] [Server thread/INFO]: zimee777 has made the advancement [Local Librarian]
+[03:50:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1009, y=-16, z=621}
+[03:50:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1009, y=-16, z=619}
+[03:50:18] [Server thread/INFO]: d0ce3_ has made the advancement [Smashing Success]
+[03:50:40] [Server thread/INFO]: zimee777 has made the advancement [Behind bars]
+[03:50:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:50:46] [Server thread/INFO]: d0ce3_ has made the advancement [Behind bars]
+[03:50:46] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[03:51:36] [Server thread/INFO]: <zimee777> cofres
+[03:54:10] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[03:54:12] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:54:13] [Server thread/INFO]: <d0ce3_> xd
+[03:54:26] [Server thread/INFO]: <zimee777> no hay llaves che
+[03:54:26] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:54:38] [Server thread/INFO]: <d0ce3_> nu
+[03:54:42] [Server thread/INFO]: <d0ce3_> porque no esta ese mod
+[03:55:09] [Server thread/INFO]: zimee777 was slain by Shieldbearer
+[03:55:11] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:55:21] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:55:47] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -989, 25, 29, minecells:prison
+[03:55:54] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[03:55:56] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:56:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:56:29] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -982, 24, 21, minecells:prison
+[03:56:30] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[03:56:32] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:56:35] [Server thread/INFO]: <zimee777> anda a cagar
+[03:56:39] [Server thread/INFO]: <zimee777> que juego mogolico
+[03:56:48] [Server thread/INFO]: <d0ce3_> en donde te moriste
+[03:57:25] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:57:37] [Server thread/INFO]: d0ce3_ has made the advancement [Archer´s Paths]
+[03:57:38] [Server thread/INFO]: zimee777 has made the advancement [Not Today, Thank You]
+[03:57:45] [Server thread/INFO]: d0ce3_ has made the advancement [Take Aim]
+[03:58:15] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -983, 24, 19, minecells:prison
+[03:58:22] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -988, 24, 27, minecells:prison
+[03:58:34] [Server thread/INFO]: <d0ce3_> te dejaste una banda de cosas todavia abajo
+[03:58:41] [Server thread/INFO]: <d0ce3_> arriba digo
+[03:58:41] [Server thread/INFO]: <zimee777> arriba?
+[03:58:43] [Server thread/INFO]: <zimee777> a
+[03:58:43] [Server thread/INFO]: <d0ce3_> que haces abajo
+[03:58:53] [Server thread/INFO]: <zimee777> y bue pense que bajaste yo :(
+[03:59:05] [Server thread/INFO]: <zimee777> voy a suybiur
+[04:00:48] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[04:00:48] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:00:48] [Netty Epoll Server IO #3/ERROR]: Combo count: 0 is dual wielding: false
+[04:00:48] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[04:00:48] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[04:00:48] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[04:00:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:00:54] [Server thread/INFO]: <zimee777> la re putisima madre
+[04:00:55] [Server thread/INFO]: d0ce3_ has completed the challenge [Centennial]
+[04:01:00] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:01:16] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1037, 40, 24, minecells:prison
+[04:01:17] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[04:01:17] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04:01:17] [Netty Epoll Server IO #3/ERROR]: Combo count: 0 is dual wielding: false
+[04:01:17] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[04:01:17] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[04:01:17] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 0 | client: 0
+[04:01:19] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:01:20] [Server thread/INFO]: <zimee777> deja
+[04:01:26] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:01:29] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1035, 40, 22, minecells:prison
+[04:03:00] [Server thread/INFO]: zimee777 has completed the challenge [Centennial]

@@ -725,26 +725,30 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-07-10 04:13:44 +0000",
+      "pine_taiga": "2025-07-11 03:49:59 +0000",
       "willow_forest": "2025-07-10 04:41:36 +0000",
       "grassy_beach": "2025-07-10 04:19:39 +0000",
       "rocky_meadow": "2025-07-10 04:38:30 +0000",
       "ochard": "2025-07-10 04:14:17 +0000",
       "highland_fields": "2025-07-10 04:50:13 +0000",
       "magnolia_highlands": "2025-07-10 04:41:57 +0000",
-      "temperate_grove": "2025-07-10 04:42:29 +0000"
+      "temperate_grove": "2025-07-10 04:42:29 +0000",
+      "lupine_plains": "2025-07-11 03:50:05 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-07-10 04:13:44 +0000",
+      "pine_taiga": "2025-07-11 03:49:59 +0000",
       "willow_forest": "2025-07-10 04:41:36 +0000",
       "grassy_beach": "2025-07-10 04:19:39 +0000",
       "rocky_meadow": "2025-07-10 04:38:30 +0000",
       "ochard": "2025-07-10 04:14:17 +0000",
       "highland_fields": "2025-07-10 04:50:13 +0000",
       "magnolia_highlands": "2025-07-10 04:41:57 +0000",
-      "temperate_grove": "2025-07-10 04:42:29 +0000"
+      "temperate_grove": "2025-07-10 04:42:29 +0000",
+      "lupine_plains": "2025-07-11 03:50:05 +0000"
     },
     "done": false
   },
@@ -10368,6 +10372,18 @@
     },
     "done": true
   },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-07-11 03:50:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-07-11 03:53:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-11 03:20:15 +0000"
@@ -10389,6 +10405,12 @@
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-11 03:51:25 +0000"
     },
     "done": true
   },
@@ -10530,9 +10552,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-11 03:51:25 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/juniper_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-07-11 03:45:29 +0000"
     },
     "done": true
   },
@@ -10545,6 +10579,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-07-11 03:46:05 +0000"
     },
     "done": true
   },
@@ -10668,6 +10708,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-11 03:51:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/quick_charge_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
@@ -10683,6 +10729,12 @@
   "croptopia:recipes/misc/fried_calamari": {
     "criteria": {
       "has_calamari": "2025-07-11 03:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-11 03:57:38 +0000"
     },
     "done": true
   },
@@ -10761,6 +10813,12 @@
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2025-07-11 03:45:29 +0000"
     },
     "done": true
   },
