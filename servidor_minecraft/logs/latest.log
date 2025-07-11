@@ -2221,3 +2221,12 @@ BCLib - The End  BiomeSource (2523bc4a)
 [02:52:01] [Server thread/INFO]: <zimee777> uy como
 [02:53:24] [Server thread/INFO]: <d0ce3_> con el trading depot es
 [02:53:52] [Server thread/INFO]: <zimee777> me ta andando pal tuje
+[02:56:56] [Server thread/INFO]: <zimee777> que es esto
+[02:57:05] [Server thread/INFO]: <d0ce3_> nidea
+[02:57:10] [Server thread/INFO]: <zimee777> sacalo
+[02:58:24] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[02:58:24] [Server thread/INFO]: d0ce3_ lost connection: Disconnected
+[02:58:24] [Server thread/INFO]: d0ce3_ left the game
+[02:58:24] [Server thread/INFO]: remove player wand
+[02:58:24] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
