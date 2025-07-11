@@ -12165,6 +12165,12 @@
     },
     "done": true
   },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-07-11 04:16:09 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_a_leaping_zombie": {
     "criteria": {
       "leaping_zombie_killed": "2025-07-11 03:51:04 +0000"

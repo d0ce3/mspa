@@ -2434,3 +2434,54 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [04:13:16] [Server thread/INFO]: <zimee777> ontas
 [04:13:20] [Server thread/INFO]: <d0ce3_> abajito
 [04:14:35] [Server thread/INFO]: d0ce3_ has made the advancement [Biceps Required]
+[04:15:53] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[04:15:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:16:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:16:09] [Server thread/INFO]: d0ce3_ has made the advancement [A crafter that runs on cells...]
+[04:16:18] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -973, 24, 10, minecells:prison
+[04:18:28] [Server thread/INFO]: zimee777 was blown up by Grenadier
+[04:18:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:18:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:18:42] [Server thread/INFO]: <zimee777> en breve apago todo
+[04:18:49] [Server thread/INFO]: <zimee777> de la bronca
+[04:18:57] [Server thread/INFO]: <d0ce3_> pobresitaaaa
+[04:19:02] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1030, 24, 8, minecells:prison
+[04:20:03] [Server thread/INFO]: <d0ce3_> toma
+[04:20:09] [Server thread/INFO]: <zimee777> tengo amore
+[04:20:23] [Server thread/INFO]: <d0ce3_> pero tonces porque no guardas tu distancia
+[04:20:31] [Server thread/INFO]: <zimee777> no se manejarme aun che
+[04:21:17] [Server thread/INFO]: zimee777 was blown up by Grenadier
+[04:21:42] [Server thread/INFO]: zimee777 lost connection: Timed out
+[04:21:42] [Server thread/INFO]: zimee777 left the game
+[04:21:42] [Server thread/INFO]: remove player wand
+[04:21:42] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[04:21:42] [Server thread/WARN]: handleDisconnection() called twice
+[04:21:50] [Server thread/INFO]: [Handshake] Sending channel query
+[04:21:50] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[04:21:50] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[04:21:50] [Server thread/INFO]: zimee777[/100.114.212.114:53798] logged in with entity id 28461 at (-977.9381536345454, 24.0, -7.608069703530468)
+[04:21:50] [Server thread/INFO]: Sending server config values to client
+[04:21:50] [Server thread/INFO]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[04:21:50] [Server thread/INFO]: Loading config from file...
+[04:21:50] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[04:21:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:21:50] [Server thread/INFO]: zimee777 joined the game
+[04:21:50] [Server thread/INFO]: Loading Configs for Sortilege
+[04:21:50] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[04:21:50] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[04:21:50] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[04:21:50] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:21:50] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[04:21:51] [Server thread/INFO]: PLAYER_JOIN
+[04:21:51] [Server thread/INFO]: add_player wand
+[04:21:51] [Server thread/INFO]: config sent
+[04:21:53] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[04:21:53] [Netty Epoll Server IO #2/INFO]: Channel update: zimee777 -> default
+[04:21:53] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player zimee777. Claiming: GRAVE / Robbing: INVENTORY
+[04:21:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:22:22] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:22:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:23:31] [Server thread/INFO]: zimee777 was slain by Leaping Zombie
+[04:23:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:23:50] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:24:11] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -978, 24, -8, minecells:prison
