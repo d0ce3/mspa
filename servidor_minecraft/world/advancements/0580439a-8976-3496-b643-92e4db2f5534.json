@@ -8035,6 +8035,7 @@
   },
   "brewery:main/wild_crops": {
     "criteria": {
+      "hops": "2025-07-11 03:05:03 +0000",
       "hops_seeds": "2025-07-10 05:33:28 +0000"
     },
     "done": false
@@ -10163,6 +10164,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-07-11 02:53:30 +0000"
@@ -10175,9 +10188,45 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beer": {
+    "criteria": {
+      "has_hops": "2025-07-11 03:05:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/light_gray_shiny_flower": {
     "criteria": {
       "has_item": "2025-07-11 02:30:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10199,9 +10248,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/flame_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/lure_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10211,9 +10272,51 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/swift_sneak_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/knockback_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fortune_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10229,15 +10332,123 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aqua_affinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_aspect_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2025-07-11 02:30:50 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/respiration_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/soul_speed_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/looting_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/depth_strider_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/unbreaking_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/loyalty_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_book": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/power_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smite_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10253,9 +10464,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_log": {
     "criteria": {
       "has_rubber_log": "2025-07-11 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/channeling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/frost_walker_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10265,9 +10500,57 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-11 03:03:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/punch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2025-07-11 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/efficiency_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10277,15 +10560,75 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-11 02:42:38 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/blast_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/rubber_logs": {
     "criteria": {
       "has_rubber_logs": "2025-07-11 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/silk_touch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/piercing_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/impaling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10307,9 +10650,51 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/riptide_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:hops": "2025-07-11 03:05:03 +0000"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sharpness_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/mending_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/feather_falling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_blue": {
     "criteria": {
       "has_item": "2025-07-11 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },
@@ -10319,9 +10704,39 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/projectile_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-07-11 02:42:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweeping_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bane_of_arthropods_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thorns_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
     },
     "done": true
   },

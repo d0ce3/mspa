@@ -11960,5 +11960,17 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-07-11 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-07-11 03:09:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

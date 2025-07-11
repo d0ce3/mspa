@@ -2230,3 +2230,29 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [02:58:24] [Server thread/INFO]: d0ce3_ left the game
 [02:58:24] [Server thread/INFO]: remove player wand
 [02:58:24] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[03:05:11] [Server thread/INFO]: [Handshake] Sending channel query
+[03:05:12] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[03:05:12] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[03:05:12] [Server thread/INFO]: d0ce3_[/100.93.24.83:52159] logged in with entity id 10743 at (-1381.8446770000603, 68.0, 145.06168395445735)
+[03:05:12] [Server thread/INFO]: Sending server config values to client
+[03:05:12] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[03:05:12] [Server thread/INFO]: Loading config from file...
+[03:05:12] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:05:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:05:12] [Server thread/INFO]: d0ce3_ joined the game
+[03:05:12] [Server thread/INFO]: Loading Configs for Sortilege
+[03:05:12] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:05:12] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:05:12] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:05:12] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:05:12] [Server thread/INFO]: PLAYER_JOIN
+[03:05:12] [Server thread/INFO]: add_player wand
+[03:05:12] [Server thread/INFO]: config sent
+[03:05:12] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[03:05:14] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[03:05:21] [Netty Epoll Server IO #7/INFO]: Channel update: d0ce3_ -> default
+[03:05:21] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[03:05:23] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[03:06:18] [Server thread/INFO]: <d0ce3_> asd
+[03:07:11] [Server thread/INFO]: <zimee777> se murieron banda de aldeanos la conchaa
+[03:07:43] [Server thread/INFO]: <d0ce3_> uy f
