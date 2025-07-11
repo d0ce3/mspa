@@ -12015,6 +12015,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-07-11 04:48:55 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-11 03:19:23 +0000"
@@ -12189,9 +12195,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 04:48:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-11 03:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-11 04:48:54 +0000"
     },
     "done": true
   },
@@ -12228,6 +12246,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-07-11 03:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 04:48:54 +0000"
     },
     "done": true
   },
@@ -12336,6 +12360,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-07-11 03:23:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 04:48:54 +0000"
     },
     "done": true
   },
@@ -12483,6 +12513,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 04:48:54 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/grenadier": {
     "criteria": {
       "requirement": "2025-07-11 03:54:50 +0000"
@@ -12546,6 +12582,12 @@
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:27:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 04:48:54 +0000"
     },
     "done": true
   },
@@ -12738,6 +12780,12 @@
   "betternether:recipes/decorations/rubeus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-07-11 03:51:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 04:48:54 +0000"
     },
     "done": true
   },

@@ -11434,15 +11434,57 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
   "minecells:promenade": {
     "criteria": {
       "requirement": "2025-07-11 04:29:44 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
   "minecells:cell_crafter": {
     "criteria": {
       "use_cell_crafter": "2025-07-11 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-11 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-11 04:49:18 +0000"
     },
     "done": true
   },
@@ -11458,9 +11500,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-11 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-07-11 04:30:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-07-11 04:49:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-07-11 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-07-11 04:49:52 +0000"
     },
     "done": true
   },

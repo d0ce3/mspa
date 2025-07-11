@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecells:prison", x: -978, y: 24, z: -8, time: 1752207710976L, xRot: 13.089774f, yRot: -38.181885f }
+	last_seen: { dim: "minecraft:overworld", x: -1382, y: 63, z: 220, time: 1752209433680L, xRot: 34.357788f, yRot: -56.12329f }
 	recording: "none"
 	teleport_history: [
 		{ dim: "minecells:promenade", x: -1027, y: 68, z: 53, time: 1752208291246L }
