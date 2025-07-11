@@ -10175,15 +10175,69 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-07-11 02:42:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
     "criteria": {
       "has_rubber_sapling": "2025-07-11 02:32:12 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-11 02:46:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_item": "2025-07-11 02:47:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2025-07-11 02:30:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 02:42:38 +0000"
     },
     "done": true
   },
@@ -10217,6 +10271,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-11 02:42:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/rubber_logs": {
     "criteria": {
       "has_rubber_logs": "2025-07-11 02:32:46 +0000"
@@ -10229,6 +10289,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-07-11 02:46:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stripped_maple_wood": {
     "criteria": {
       "has_log": "2025-07-11 02:32:23 +0000"
@@ -10238,6 +10304,18 @@
   "botania:recipes/misc/petal_blue": {
     "criteria": {
       "has_item": "2025-07-11 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-07-11 02:42:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-07-11 02:42:14 +0000"
     },
     "done": true
   },

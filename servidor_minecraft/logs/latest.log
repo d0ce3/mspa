@@ -2189,3 +2189,35 @@ BCLib - The End  BiomeSource (2523bc4a)
 [02:39:22] [Server thread/INFO]: Named entity class_1646['Oren'/1168, l='ServerLevel[world]', x=-1470.19, y=63.00, z=200.12] died: Oren was shot by Pillager
 [02:40:04] [Server thread/INFO]: Villager class_1646['Lavette'/1164, l='ServerLevel[world]', x=-1468.75, y=66.54, z=217.91] died, message: 'Lavette was shot by Pillager'
 [02:40:04] [Server thread/INFO]: Named entity class_1646['Lavette'/1164, l='ServerLevel[world]', x=-1468.75, y=66.54, z=217.91] died: Lavette was shot by Pillager
+[02:50:32] [Server thread/INFO]: [Handshake] Sending channel query
+[02:50:33] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[02:50:33] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[02:50:33] [Server thread/INFO]: d0ce3_[/100.93.24.83:50184] logged in with entity id 7455 at (-1420.282518148138, 65.0, 240.30000001192093)
+[02:50:33] [Server thread/INFO]: Sending server config values to client
+[02:50:33] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[02:50:33] [Server thread/INFO]: Loading config from file...
+[02:50:33] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[02:50:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:50:33] [Server thread/INFO]: d0ce3_ joined the game
+[02:50:33] [Server thread/INFO]: Loading Configs for Sortilege
+[02:50:33] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[02:50:33] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[02:50:33] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[02:50:33] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[02:50:34] [Server thread/INFO]: PLAYER_JOIN
+[02:50:34] [Server thread/INFO]: add_player wand
+[02:50:34] [Server thread/INFO]: config sent
+[02:50:34] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[02:50:36] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[02:50:44] [Netty Epoll Server IO #5/INFO]: Channel update: d0ce3_ -> default
+[02:50:44] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[02:50:48] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[02:51:18] [Server thread/INFO]: <d0ce3_> y esa linda flor[?
+[02:51:26] [Server thread/INFO]: <d0ce3_> jajaj
+[02:51:29] [Server thread/INFO]: <zimee777> hola amorsote
+[02:51:37] [Server thread/INFO]: <d0ce3_> holanda hermosa
+[02:51:42] [Server thread/INFO]: <zimee777> toy haciendo lugar pa traer los aldeanos
+[02:51:55] [Server thread/INFO]: <d0ce3_> se pueden automatizar los tradeos
+[02:52:01] [Server thread/INFO]: <zimee777> uy como
+[02:53:24] [Server thread/INFO]: <d0ce3_> con el trading depot es
+[02:53:52] [Server thread/INFO]: <zimee777> me ta andando pal tuje
