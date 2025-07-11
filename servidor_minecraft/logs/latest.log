@@ -2173,3 +2173,19 @@ BCLib - The End  BiomeSource (2523bc4a)
 [02:29:12] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [02:29:24] [Server thread/INFO]: <zimee777> www
 [02:31:52] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[02:36:42] [Server thread/INFO]: Villager class_1646['Cyrus'/1166, l='ServerLevel[world]', x=-1455.36, y=63.00, z=213.45] died, message: 'Cyrus was shot by Pillager'
+[02:36:42] [Server thread/INFO]: Named entity class_1646['Cyrus'/1166, l='ServerLevel[world]', x=-1455.36, y=63.00, z=213.45] died: Cyrus was shot by Pillager
+[02:37:03] [Server thread/INFO]: Villager class_1646['Shaun'/1198, l='ServerLevel[world]', x=-1475.27, y=64.00, z=213.60] died, message: 'Shaun was shot by Pillager'
+[02:37:03] [Server thread/INFO]: Named entity class_1646['Shaun'/1198, l='ServerLevel[world]', x=-1475.27, y=64.00, z=213.60] died: Shaun was shot by Pillager
+[02:37:34] [Server thread/INFO]: Villager class_1646['Mabelle'/1173, l='ServerLevel[world]', x=-1458.74, y=63.00, z=205.35] died, message: 'Mabelle was shot by Pillager'
+[02:37:34] [Server thread/INFO]: Named entity class_1646['Mabelle'/1173, l='ServerLevel[world]', x=-1458.74, y=63.00, z=205.35] died: Mabelle was shot by Pillager
+[02:38:07] [Server thread/INFO]: Villager class_1646['Sharyl'/1172, l='ServerLevel[world]', x=-1458.65, y=63.00, z=209.49] died, message: 'Sharyl was shot by Pillager'
+[02:38:07] [Server thread/INFO]: Named entity class_1646['Sharyl'/1172, l='ServerLevel[world]', x=-1458.65, y=63.00, z=209.49] died: Sharyl was shot by Pillager
+[02:38:13] [Server thread/INFO]: Villager class_1646['Verdie'/1170, l='ServerLevel[world]', x=-1450.21, y=63.00, z=210.53] died, message: 'Verdie was shot by Pillager'
+[02:38:13] [Server thread/INFO]: Named entity class_1646['Verdie'/1170, l='ServerLevel[world]', x=-1450.21, y=63.00, z=210.53] died: Verdie was shot by Pillager
+[02:38:36] [Server thread/INFO]: Villager class_1646['Major'/1177, l='ServerLevel[world]', x=-1461.70, y=63.00, z=195.70] died, message: 'Major was shot by Pillager'
+[02:38:36] [Server thread/INFO]: Named entity class_1646['Major'/1177, l='ServerLevel[world]', x=-1461.70, y=63.00, z=195.70] died: Major was shot by Pillager
+[02:39:22] [Server thread/INFO]: Villager class_1646['Oren'/1168, l='ServerLevel[world]', x=-1470.19, y=63.00, z=200.12] died, message: 'Oren was shot by Pillager'
+[02:39:22] [Server thread/INFO]: Named entity class_1646['Oren'/1168, l='ServerLevel[world]', x=-1470.19, y=63.00, z=200.12] died: Oren was shot by Pillager
+[02:40:04] [Server thread/INFO]: Villager class_1646['Lavette'/1164, l='ServerLevel[world]', x=-1468.75, y=66.54, z=217.91] died, message: 'Lavette was shot by Pillager'
+[02:40:04] [Server thread/INFO]: Named entity class_1646['Lavette'/1164, l='ServerLevel[world]', x=-1468.75, y=66.54, z=217.91] died: Lavette was shot by Pillager
