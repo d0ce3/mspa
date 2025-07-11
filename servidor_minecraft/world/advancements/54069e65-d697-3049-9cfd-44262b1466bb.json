@@ -12147,6 +12147,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-07-11 03:32:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:27:46 +0000"

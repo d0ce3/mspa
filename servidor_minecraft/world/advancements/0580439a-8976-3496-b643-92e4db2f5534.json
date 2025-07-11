@@ -10230,6 +10230,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-07-11 03:04:20 +0000"
@@ -10263,6 +10269,12 @@
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
     },
     "done": true
   },
@@ -10320,6 +10332,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-07-11 03:32:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-07-11 03:19:20 +0000"
@@ -10362,9 +10380,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
     },
     "done": true
   },
@@ -10443,6 +10479,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-07-11 02:46:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
     },
     "done": true
   },
@@ -10659,6 +10701,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
     },
     "done": true
   },
@@ -11052,6 +11100,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-07-11 03:04:20 +0000"
@@ -11067,6 +11121,12 @@
   "promenade:recipes/crafting/sakura/chest_boat": {
     "criteria": {
       "has_boat": "2025-07-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-07-11 03:32:23 +0000"
     },
     "done": true
   },
