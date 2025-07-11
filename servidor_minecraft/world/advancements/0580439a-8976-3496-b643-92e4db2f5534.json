@@ -11434,5 +11434,23 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-07-11 04:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-07-11 04:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-07-11 04:30:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

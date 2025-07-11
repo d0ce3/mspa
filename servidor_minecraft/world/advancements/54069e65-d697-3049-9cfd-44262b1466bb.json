@@ -12075,6 +12075,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-07-11 04:29:49 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
     "criteria": {
       "has_cauldron": "2025-07-11 03:28:15 +0000"
@@ -12393,6 +12399,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2025-07-11 04:26:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-11 03:19:23 +0000"
@@ -12597,6 +12609,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_item": "2025-07-11 04:35:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-07-11 03:19:23 +0000"
@@ -12624,6 +12642,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-11 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-07-11 04:31:00 +0000"
     },
     "done": true
   },
@@ -12774,6 +12798,12 @@
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-07-11 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-07-11 04:30:13 +0000"
     },
     "done": true
   },
