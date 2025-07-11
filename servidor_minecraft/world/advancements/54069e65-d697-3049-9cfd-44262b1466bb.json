@@ -12555,6 +12555,12 @@
     },
     "done": true
   },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-07-11 04:14:35 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/moai": {
     "criteria": {
       "has_tuff": "2025-07-11 03:19:23 +0000"
@@ -12720,6 +12726,12 @@
   "techreborn:recipes/extractor/string_from_bow": {
     "criteria": {
       "has_bow": "2025-07-11 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-11 04:00:55 +0000"
     },
     "done": true
   },
