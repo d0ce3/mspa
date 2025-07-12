@@ -159,7 +159,7 @@
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "NO_PICKUP"
+		movableSpawners = "MOVABLE"
 		#.
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
@@ -255,8 +255,8 @@
 				crushing_wheel = 8.0
 				mechanical_arm = 2.0
 				rope_pulley = 4.0
-				brass_encased_large_cogwheel = 0.0
 				mechanical_crafter = 2.0
+				brass_encased_large_cogwheel = 0.0
 				mechanical_drill = 4.0
 				flywheel = 0.0
 				weighted_ejector = 2.0
@@ -270,9 +270,9 @@
 				mysterious_cuckoo_clock = 1.0
 				stressometer = 0.0
 				encased_chain_drive = 0.0
+				elevator_pulley = 4.0
 				rotation_speed_controller = 0.0
 				brass_encased_cogwheel = 0.0
-				elevator_pulley = 4.0
 				belt = 0.0
 				cogwheel = 0.0
 				copper_backtank = 4.0
@@ -390,7 +390,7 @@
 	#.
 	#The amount of Schematics a player can upload until previous ones are overwritten.
 	#Range: > 1
-	maxSchematics = 256
+	maxSchematics = 10
 	#.
 	#.
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
